@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Pawan </h1>
 
 <h3 align="center">Languages and Tools:</h3>
-  ![Java](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
   ![SpringBoot](https://img.shields.io/badge/JavaScript-%6DA55F?style=for-the-badge&logo=javascript&logoColor=white)
   ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
